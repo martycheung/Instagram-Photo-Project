@@ -2,7 +2,7 @@
 
 This repository will contain some of my projects where I try to work with Instagram data. 
 
-Projects Include:
+Project Ideas Below (only a pipeline at the moment, without much completed projects):
 
 ## Instagram Photo Quality Tester
 A fun project to try to build a tool/app that will assess the quality of your photos in real time. 
